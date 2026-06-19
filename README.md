@@ -3,7 +3,6 @@
 <p align="center">Immerse myself in coding, thrive on exploring AI/ML, and find joy in mastering algorithms.</p>
 
 ---
-- 🔭 I’m currently working with [AI and Robotics Venture (ARV)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arv.co.th/en&ved=2ahUKEwiXosir_fmKAxWXTWcHHROoGNUQFnoECA0QAQ&usg=AOvVaw3mAe9Z0vdSCpTCvitbFWF2)
 
 - 📫 How to reach me **pakapak9848@gmail.com**
 
